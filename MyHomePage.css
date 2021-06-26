@@ -1,0 +1,44 @@
+body{
+	background: url(https://www.aptabletennis.org/website/img/logo%20-%20Copy3.jpg);
+	/*background:url(https://images.unsplash.com/photo-1511067007398-7e4b90cfa4bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);*/
+	/*background:url(https://images.unsplash.com/photo-1515773512591-dfaf9e052325?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);*/
+	/*background: url(https://cdn.pixabay.com/photo/2017/01/26/11/11/table-tennis-2010329__340.jpg);*/
+	background-size: cover;
+	font-family: Bangers;
+	background-position:center;
+}
+.navbar{
+	background: #EAC58D;
+}
+
+html{
+	height: 100%;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+	text: left;
+	/*margin-left: 0;*/
+}
+
+h1{
+	color: black;
+	font-weight: 600;
+	font-size: 4em;
+	text-align: left;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px red;
+	/*text-shadow: 0px 8px 13px orange;
+	text-shadow: 0px 18px 23px yellow;*/
+}
+h3{
+	color: #E50707;
+	text-shadow: 0px 4px 3px #000000;
+	text-align:left;
+}
+
+#but{
+	color: #B2662B;
+}
